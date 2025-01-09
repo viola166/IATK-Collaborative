@@ -9,6 +9,12 @@
     }
   ],
   "dependencies": {
+    "com.meta.xr.mrutilitykit": "file:Packages/com.meta.xr.mrutilitykit",
+    "com.meta.xr.sdk.all": "68.0.1",
+    "com.meta.xr.sdk.audio": "file:Packages/com.meta.xr.sdk.audio",
+    "com.meta.xr.sdk.core": "file:Packages/com.meta.xr.sdk.core",
+    "com.meta.xr.sdk.interaction": "file:Packages/com.meta.xr.sdk.interaction",
+    "com.meta.xr.sdk.interaction.ovr": "file:Packages/com.meta.xr.sdk.interaction.ovr",
     "com.unity.collab-proxy": "1.15.18",
     "com.unity.ide.rider": "3.0.14",
     "com.unity.ide.visualstudio": "2.0.15",
@@ -17,6 +23,8 @@
     "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.7.1",
     "com.unity.ugui": "1.0.0",
+    "com.unity.xr.interaction.toolkit": "3.0.7",
+    "com.unity.xr.management": "4.5.0",
     "com.unity.xr.openxr": "1.4.2",
     "io.extendreality.tilia.camerarigs.trackedalias.unity": "2.0.3",
     "io.extendreality.tilia.camerarigs.xrpluginframework.unity": "2.0.3",
